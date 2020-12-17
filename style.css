@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    background-color: #83D2E2;
+}
+body {
+    /* background: #fb6a4b;
+    background: -moz-linear-gradient(top,  #fb6a4b 0%, #f35a69 100%);
+    background: -webkit-linear-gradient(top,  #fb6a4b 0%,#f35a69 100%);
+    background: linear-gradient(to bottom,  #fb6a4b 0%,#f35a69 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fb6a4b', endColorstr='#f35a69',GradientType=0 ); */
+
+}
+
+
+.container {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.app {
+    background-color: #f4f7fc;
+    border-radius: 2px;
+    
+    padding: 80px 40px 40px 40px;
+}
